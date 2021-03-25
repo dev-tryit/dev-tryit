@@ -28,7 +28,7 @@ React Design Pattern
 
 <p align="left">
   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="50">
-  <img src="https://p1.hiclipart.com/preview/811/233/271/alternative-python-icons-and-folder-icon-python-3-png-clipart.jpg" width="50">
+  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python.png" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
 </p>
 
