@@ -1,4 +1,4 @@
-## 👨 About Me (Sim Jae Cheol)
+## 👨 About Me (Kim Dong Hyun)
 
 - 🎓 (2016 ~ 2018) Graduated from the Department of Computer Engineering at **Inha University** with a master's degree
 - 🤔 (2018 ~ 2021) **Neowiz Corp** Spring BackEnd Developer, Android Front Developer
