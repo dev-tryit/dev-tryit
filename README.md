@@ -34,7 +34,7 @@ React Design Pattern
 
 ## Contact me ##
 email: imkim189371@gmail.com  
-blog: kdh-try-it.tistory.com
+blog: https://kdh-try-it.tistory.com
 
 ## GitHub Stats ##
 ![dev-tryit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-tryit&show_icons=true&count_private=true)
