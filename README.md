@@ -1,6 +1,6 @@
 ## 👨 About Me (Kim Dong Hyun)
 
-- 🎓 (2016 ~ 2018) Graduated with a master's degree at **Inha University**
+- 🎓 (2016 ~ 2018) Graduated with **a master's degree** at **Inha University**
 - 🤔 (2018 ~ 2021) Spring BackEnd Developer And Android Front Developer at **Neowiz Corp**
 - 🔭 (2013 ~) Web, App Program **Tutor**
 - 🔭 (2015 ~) Web, App Program **Freelancer**
