@@ -29,7 +29,7 @@ React Design Pattern
 <p align="left">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/java2.png" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python.png" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript.png" width="50">
+  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript2.png" width="50">
 </p>
 
 ## Contact me ##
