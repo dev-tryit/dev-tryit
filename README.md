@@ -30,7 +30,6 @@ React Design Pattern
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/java3.png" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python2.jpg" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript3.png" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/springboot.png" width="50">
 </p>
 
 ## Contact me ##
