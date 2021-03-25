@@ -27,8 +27,8 @@ React Design Pattern
 ## Languages ##
 
 <p align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yuwlp&psig=AOvVaw2HarDthXG-3-ZL8f3JBh5D&ust=1616763117276000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjCruu9y-8CFQAAAAAdAAAAABAD" width="50">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif" width="50">
+  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="50">
+  <img src="https://p1.hiclipart.com/preview/811/233/271/alternative-python-icons-and-folder-icon-python-3-png-clipart.jpg" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
 </p>
 
