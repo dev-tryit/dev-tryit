@@ -34,7 +34,7 @@ React Design Pattern
 </p>
 
 ## 💌 Contact me ##
-- 📧 email: imkim189371@gmail.com  
+- 📧 email: imkim1893@naver.com  
 - 🚀 sns: https://link.inpock.co.kr/tryit
 
 ## 📈 GitHub Stats ##
