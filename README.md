@@ -27,6 +27,7 @@ React Design Pattern
 ## Languages ##
 
 <p align="left">
+  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/csharp.jpg" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/java3.png" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python2.jpg" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript3.png" width="50">
@@ -34,7 +35,7 @@ React Design Pattern
 
 ## Contact me ##
 email: imkim189371@gmail.com  
-blog: https://kdh-try-it.tistory.com
+sns: https://link.inpock.co.kr/tryit
 
 ## GitHub Stats ##
 ![dev-tryit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-tryit&show_icons=true&count_private=true)
