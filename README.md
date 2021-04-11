@@ -24,7 +24,7 @@ React Design Pattern
 - [Props Getter Pattern](https://medium.com/@simsimjae/react-design-pattern-props-getter-pattern-5d3cf6f0b495)
 -->
 
-## 📟 Languages ##
+## ⚔️ Languages ##
 
 <p align="left">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/csharp.png" width="50">
