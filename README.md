@@ -1,3 +1,7 @@
+## Contact me ##
+email: imkim189371@gmail.com  
+sns: https://link.inpock.co.kr/tryit
+
 ## 👨 About Me (Kim Dong Hyun)
 
 - 🎓 (2016 ~ 2018) Graduated with **a master's degree** at **Inha University**
@@ -32,10 +36,6 @@ React Design Pattern
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python2.jpg" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript3.png" width="50">
 </p>
-
-## Contact me ##
-email: imkim189371@gmail.com  
-sns: https://link.inpock.co.kr/tryit
 
 ## GitHub Stats ##
 ![dev-tryit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-tryit&show_icons=true&count_private=true)
