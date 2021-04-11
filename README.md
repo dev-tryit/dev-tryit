@@ -1,6 +1,6 @@
 ## 💌 Contact me ##
 - 📧 email: imkim189371@gmail.com  
-- 📱 sns: https://link.inpock.co.kr/tryit
+- 👓 sns: https://link.inpock.co.kr/tryit
 
 ## 🏆 About Me (Kim Dong Hyun)
 
