@@ -35,7 +35,7 @@ React Design Pattern
 
 ## 💌 Contact me ##
 - 📧 email: imkim1893@naver.com  
-- 🚀 sns: https://link.inpock.co.kr/tryit
+- 🚀 sns: https://tryit.kr
 
 ## 📈 GitHub Stats ##
 ![dev-tryit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-tryit&show_icons=true&count_private=true)
