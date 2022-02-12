@@ -31,7 +31,7 @@ React Design Pattern
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/java3.png" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python2.jpg" width="50">
   <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript3.png" width="50">
-  &nbsp;<img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/dart.png" width="46">
+  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/dart.png" width="46">
 </p>
 
 ## 💌 Contact me ##
