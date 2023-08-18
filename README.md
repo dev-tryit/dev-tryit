@@ -25,15 +25,6 @@ React Design Pattern
 - [Props Getter Pattern](https://medium.com/@simsimjae/react-design-pattern-props-getter-pattern-5d3cf6f0b495)
 -->
 
-## ⚔️ Languages ##
-
-<p align="left">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/csharp.png" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/java3.png" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/python2.jpg" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/javascript3.png" width="50">
-  <img src="https://github.com/dev-tryit/dev-tryit/blob/main/icon/dart.png" width="46">
-</p>
 
 ## 💌 Contact me ##
 - 📧 email: imkim1893@naver.com  
