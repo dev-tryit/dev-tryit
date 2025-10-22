@@ -1,8 +1,6 @@
 # 🏆 About Me (Donghyun Kim / Ethan)
 - 👨‍💻 **8+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
 
----
-
 ### Experience & Education
 - (Oct 2025 - Mar 2026) 🚀 **AI Bootcamp** @ Fast Campus x Upstage
     - Kernel Academy Program focused on practical AI application and development.
@@ -24,7 +22,3 @@
 
 - 📧 email: imkim1893@naver.com
 - 🚀 linkedin: [https://www.linkedin.com/in/tryitprofile/](https://www.linkedin.com/in/tryitprofile/)
-
-## 📈 GitHub Stats
-
-![dev-tryit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-tryit&show_icons=true&count_private=true)
