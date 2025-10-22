@@ -1,5 +1,5 @@
 # 🏆 About Me (Donghyun Kim / Ethan)
-- 👨‍💻 **8+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
+👨‍💻 **8+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
 
 ### Experience & Education
 - (Oct 2025 - Mar 2026) 🚀 **AI Bootcamp** @ Fast Campus x Upstage
