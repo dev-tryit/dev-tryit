@@ -5,7 +5,8 @@
 ---
 
 ### Experience & Education
-
+- 📚 Web & App Programming **Tutor** (2013 - Present)
+    - Dart/Flutter, JS/React
 - 💡 **ITPHY Inc.** | CTO / Tech Lead (2023.05 - 2025.08)
     - Led AI Healthcare Platform (FastAPI, Flutter, GCP/GKE)
 - 🎮 **Neowiz Play Studio** | Full-Stack Developer (2018.01 - 2021.03)
@@ -13,7 +14,6 @@
 - 💻 **Freelance / TryIt** | Lead Full-Stack Developer (2013.03 - 2023.05)
     - Delivered 10+ Cross-Platform Apps (Flutter, React/Native, Spring Boot, Firebase)
 - 🎓 **Inha University** | M.S. Info & Comm Engineering (Computer Vision) (2016 - 2018)
-- 📚 Web & App Programming **Tutor** (Dart/Flutter, JS/React) (2013 - Present)
 
 ---
 
