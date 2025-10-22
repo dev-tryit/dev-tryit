@@ -15,6 +15,8 @@
 - 🎓 **Inha University** | M.S. Info & Comm Engineering (Computer Vision) (2016 - 2018)
 - 📚 Web & App Programming **Tutor** (Dart/Flutter, JS/React) (2013 - Present)
 
+---
+
 ## 💌 Contact me
 
 - 📧 email: imkim1893@naver.com
