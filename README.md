@@ -14,6 +14,8 @@
 - 💻 **Freelance / TryIt** | Lead Full-Stack Developer (2013.03 - 2023.05)
     - Delivered 10+ Cross-Platform Apps (Flutter, React/Native, Spring Boot, Firebase)
 - 🎓 **Inha University** | M.S. Info & Comm Engineering (Computer Vision) (2016 - 2018)
+    - Researched **Object Detection** algorithms and techniques for creating **Ground Truth (GT) data**.
+    - Developed and evaluated **Deep Learning models for Gender Classification** based on facial features.
 
 ---
 
