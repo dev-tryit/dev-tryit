@@ -5,7 +5,7 @@
 - ⌨️ (2018 ~ 2021) Spring BackEnd Developer And Android Front Developer at **Neowiz Corp**
 - 💻 (2015 ~ 2023) Web, App Program **Freelancer**
 - ⌨️ (2023 ~ 2024) CTO, FastApi BackEnd Developer And Flutter Front Developer at **Itphy Corp**
-- https://www.rocketpunch.com/@imkim189371
+- https://www.linkedin.com/in/tryitprofile/
 
 <!--
 ## Open Sources
