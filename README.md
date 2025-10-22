@@ -1,13 +1,18 @@
 # 🏆 About Me (Donghyun Kim / Ethan)
-- 👨‍💻 **15+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
-- 🚀 **AI Bootcamp** @ Fast Campus Kernel Academy x Upstage (Oct 2025 - Mar 2026)
-- 🎓 M.S. Info & Comm Engineering (Computer Vision) @ **Inha University** (2016 - 2018)
-- 💡 **CTO / Tech Lead** @ **ITPHY Inc.** (2023.05 - 2025.08)
-    - Led AI Healthcare Platform Development (FastAPI, Flutter, GCP/GKE)
-- 💻 **Lead Full-Stack Developer** (Freelance / TryIt) (2013.03 - 2023.05)
+- 👨‍💻 **8+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
+- 🚀 **AI Bootcamp** @ Fast Campus x Upstage (Oct 2025 - Mar 2026)
+
+---
+
+### Experience & Education
+
+- 💡 **ITPHY Inc.** | CTO / Tech Lead (2023.05 - 2025.08)
+    - Led AI Healthcare Platform (FastAPI, Flutter, GCP/GKE)
+- 🎮 **Neowiz Play Studio** | Full-Stack Developer (2018.01 - 2021.03)
+    - Maintained Game Platform Microservices (Spring Boot, MSA)
+- 💻 **Freelance / TryIt** | Lead Full-Stack Developer (2013.03 - 2023.05)
     - Delivered 10+ Cross-Platform Apps (Flutter, React/Native, Spring Boot, Firebase)
-- 🎮 **Full-Stack Developer** @ **Neowiz Play Studio** (2018.01 - 2021.03)
-    - Maintained High-Traffic Game Platform Microservices (Spring Boot, MSA)
+- 🎓 **Inha University** | M.S. Info & Comm Engineering (Computer Vision) (2016 - 2018)
 - 📚 Web & App Programming **Tutor** (Dart/Flutter, JS/React) (2013 - Present)
 
 ## 💌 Contact me
