@@ -21,4 +21,5 @@
 ## 💌 Contact me
 
 - 📧 email: imkim1893@naver.com
-- 🚀 linkedin: [https://www.linkedin.com/in/tryitprofile/](https://www.linkedin.com/in/tryitprofile/)
+- 🚀 portpolio: [https://try-portpolio.web.app/](https://try-portpolio.web.app/)
+- 🤝 linkedin: [https://www.linkedin.com/in/tryitprofile/](https://www.linkedin.com/in/tryitprofile/)
