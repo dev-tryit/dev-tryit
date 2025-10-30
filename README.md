@@ -19,7 +19,7 @@
     - Achievement: 95% accuracy with CNN-based gender recognition system
 - (2019-01 - Present) **Tutor** | Web & App Programming 
     - Dart/Flutter, JS/React
-    - CS Fundamentals: Data Structures, Algorithms, Database, Operating Systems, Network ...
+    - CS Fundamentals: Data Structures, Algorithms, DB, OS, Network
 
 ---
 
