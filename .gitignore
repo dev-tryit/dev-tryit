@@ -1,0 +1,16 @@
+
+
+# [안전] 비밀과 인증 파일은 커밋하지 않는다 (2026-11-08)
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+.ssh/
+.dev.vars
+*credentials*.json
+node_modules/
+.npm/
