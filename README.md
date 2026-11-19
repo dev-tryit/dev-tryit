@@ -1,3 +1,4 @@
+<!-- 상태: 운영 중 -->
 # 🏆 About Me (Donghyun Kim / Ethan)
 **8+ Years** Full-Stack Developer | Ex-**CTO** | **AI/ML** Enthusiast
 
